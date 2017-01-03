@@ -1,0 +1,10 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- '.'
+extra-deps:
+- heist-1.0.1.0
+- map-syntax-0.2.0.1
+- snap-1.0.0.1
+- snap-blaze-0.2.1.4
+resolver: lts-7.14
